@@ -1,4 +1,3 @@
-git init für den Start
+git init // for initializing repository
 git ad <file>
 git commit -m "your commit message"
- 
